@@ -17,7 +17,7 @@ public class DeliveryTest {
 
     @BeforeEach
     void setup() {
-        Configuration.headless = true;
+        //Configuration.headless = true;
         open("http://localhost:9999");
     }
 
